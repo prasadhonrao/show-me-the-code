@@ -1,11 +1,11 @@
-## Problem statement
+# Problem statement
 
 Write a program to display 'Hello World!' message on the screen
 
-### Input
+## Input
 
     N/A
 
-### Output
+## Output
 
     Hello World!

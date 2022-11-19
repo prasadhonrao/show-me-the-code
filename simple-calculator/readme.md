@@ -1,14 +1,14 @@
-## Problem statement
+# Problem statement
 
 Write a program to perform simple arithmetic operations like add, subtract, multiply, divide, modulo (remainder)
 
-### Input
+## Input
 
     Enter first number: <Input first number here>
     Enter second number: <Input second number here>
     Choose operation from + - * / % : <Choose operation from the list>
 
-### Output
+## Output
 
     For + operation output should be addition of first and second numbers
     For - operation output should be subtraction of first and second numbers
