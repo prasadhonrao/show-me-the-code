@@ -1,5 +1,7 @@
 # Program Index
 
 1. **Hello World** - Display 'Hello, World!' message on the screen
-2. **Simple Calculator** - Program to perform simple arithmetic operations like addition, subtraction, division
-3. **Factorial** - Calculate and output factorial of a given number
+1. **Simple Calculator** - Program to perform simple arithmetic operations like addition, subtraction, division
+1. **Even Odd Number** - Program to identify whether give number is even or odd
+1. **Factorial** - Calculate and output factorial of a given number
+1. **Command Line Arguments** - Accept command line arguments from user and display each argument on a new line.
