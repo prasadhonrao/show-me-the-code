@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Simple Calculator");
+﻿using System;
+
+Console.WriteLine("Simple Calculator");
 
 Console.Write("Enter first number: ");
 var number1 = Int32.Parse(Console.ReadLine());
