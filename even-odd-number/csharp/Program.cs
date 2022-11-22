@@ -1,4 +1,6 @@
-﻿Console.Write("Enter a number: ");
+﻿using System;
+
+Console.Write("Enter a number: ");
 var input = Int32.Parse(Console.ReadLine());
 
 if (input % 2 == 0)
