@@ -9,3 +9,4 @@
 1. **Sum Of Digits** - Calculate sum of digits of a given number and display it on the screen
 1. **Prime Number** - Program to identify whether give number is prime or not
 1. **Fibonnaci Series** - Program to display fibonacci series up to a given number
+1. **Star Pattern 1** - Program to display [star pattern 1](https://github.com/PrasadHonrao/show-me-the-code/blob/main/star-pattern-1/readme.md).
