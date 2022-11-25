@@ -10,3 +10,4 @@
 1. **Prime Number** - Program to identify whether give number is prime or not
 1. **Fibonnaci Series** - Program to display fibonacci series up to a given number
 1. **Star Pattern 1** - Program to display [star pattern 1](https://github.com/PrasadHonrao/show-me-the-code/blob/main/star-pattern-1/readme.md).
+1. **Star Pattern 2** - Program to display [star pattern 2](https://github.com/PrasadHonrao/show-me-the-code/blob/main/star-pattern-2/readme.md).
