@@ -1,1 +1,3 @@
-﻿Console.WriteLine("<Program Name>");
+﻿using System;
+
+Console.WriteLine("<Program Name>");

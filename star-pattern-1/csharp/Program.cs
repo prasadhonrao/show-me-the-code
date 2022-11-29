@@ -1,4 +1,6 @@
-﻿Console.WriteLine("--- Star Pattern 1 ---");
+﻿using System;
+
+Console.WriteLine("--- Star Pattern 1 ---");
 
 Console.Write("Enter a number: ");
 var input = Int32.Parse(Console.ReadLine());
