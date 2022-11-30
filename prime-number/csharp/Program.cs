@@ -10,6 +10,9 @@ else
 
 // Function to check if a number is a prime number or not
 bool IsPrimeNumber(int number) {
+    if (number <= 0 || number == 1) 
+        return false;
+        
     bool IsPrime = true;
     for (int i = 2; i < number; i++){
         if (number % i == 0) IsPrime = false;
