@@ -9,8 +9,10 @@
 1. **Factorial Using Recursion** - Calculate and output factorial of a given number using function recursion
 1. **Sum Of Digits** - Calculate sum of digits of a given number and display it on the screen
 1. **Prime Number** - Program to identify whether give number is prime or not
+1. **First N Prime Number** - Program to display first N numbers of prime numbers
 1. **Fibonnaci Series** - Program to display fibonacci series up to a given number
 1. **Leap Year** - Program to check whether given year is leap year or not
 1. **Max of N Elements** - Program to find maximum value from a range of given numbers.
 1. **Star Pattern 1** - Program to display [star pattern 1](https://github.com/PrasadHonrao/show-me-the-code/blob/main/star-pattern-1/readme.md).
 1. **Star Pattern 2** - Program to display [star pattern 2](https://github.com/PrasadHonrao/show-me-the-code/blob/main/star-pattern-2/readme.md).
+1. **Star Pattern 3** - Program to display [star pattern 3](https://github.com/PrasadHonrao/show-me-the-code/blob/main/star-pattern-3/readme.md).
